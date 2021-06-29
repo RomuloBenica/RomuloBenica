@@ -9,6 +9,3 @@
  -  React.js, 
  -  Vue.js,
  -  Electron
- 
- });
-
